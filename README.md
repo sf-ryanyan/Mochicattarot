@@ -4,7 +4,6 @@
 
 A cute, bilingual (Chinese / English) online tarot site. All 78 cards are drawn with one round, friendly mochi cat.
 
-**Live site 在线体验：** https://sf-ryanyan.github.io/mochi-cat-tarot/
 
 ---
 
